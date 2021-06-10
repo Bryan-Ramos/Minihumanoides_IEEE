@@ -6,3 +6,5 @@ Al elegir los materiales para la construcción de los robots mini-humanoides, se
 El uso de la impresión 3D en el prototipado de robots ha contribuido a obtener un desarrollo más ágil a menor costo, dependiendo del tipo de tecnología 3D, se puede obtener mayor precisión en el diseño. Así como la accesibilidad a la impresión 3D ha aumentado con el pasar de los años, diferentes tecnologías como la usada para fresar con la que se pueden obtener resultados más prolijos y de mejor acabado.
 
 Por otro lado, se busca que el costo de elaboración de estos robots sea mínima, lo cual ha llevado a los participantes utilizar materiales como: madera, plásticos, reduciendo la cantidad de servomotores utilizados; entre los más comunes tenemos a los servos MG995, SG5010 o MG996 y a los micro servos (SG90 o MG90).
+
+Es importante recalcar que la importancia de este tipo de concursos, sirve también para poder aprender a transmitir de la mejor forma los diferentes conocimientos técnicos que para personas ajenas al campo no son comunes, como es el caso de los códigos utilizados o cuestiones técnicas acerca de los componentes necesarios y sus características. 
