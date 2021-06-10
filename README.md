@@ -1,1 +1,8 @@
 # Minihumanoides_IEEE
+A través de los años diferentes competencias de robot humanoides y mini-humanoides han aparecido, con diferentes motivaciones como lo son el fomentar la investigación relacionada a la robótica; con la que se pueda motivar tanto a quienes cursan estudios superiores como a quienes siguen en el proceso de descubrir las diferentes ramas de las ciencias a las cuales podrían dedicarse Competencias en las que se dan parámetros de diseño (altura, peso, presupuesto) y se les evalúa mediante diferentes tests para poder probar su estabilidad al ejecutar tareas como mover objetos o desplazarse
+
+Al elegir los materiales para la construcción de los robots mini-humanoides, se necesita de un material que pueda resistir los constantes esfuerzos generalmente causados por los servomotores. A la vez, es necesario que el peso no exceda lo soportado por actuadores. En los inicios, técnicas como el corte láser, se desarrollaron tanto en diferentes tipos de maderas, cartones y metales ligeros.
+
+El uso de la impresión 3D en el prototipado de robots ha contribuido a obtener un desarrollo más ágil a menor costo, dependiendo del tipo de tecnología 3D, se puede obtener mayor precisión en el diseño. Así como la accesibilidad a la impresión 3D ha aumentado con el pasar de los años, diferentes tecnologías como la usada para fresar con la que se pueden obtener resultados más prolijos y de mejor acabado.
+
+Por otro lado, se busca que el costo de elaboración de estos robots sea mínima, lo cual ha llevado a los participantes utilizar materiales como: madera, plásticos, reduciendo la cantidad de servomotores utilizados; entre los más comunes tenemos a los servos MG995, SG5010 o MG996 y a los micro servos (SG90 o MG90).
